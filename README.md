@@ -1,5 +1,7 @@
-# Orion Corporation
-This github repository contains a website for the Roblox WFYB group named Orion Corporation, a sci-fi corporation that has a large fleet of diverse spaceships in the distant future.
+# Endyrm's stuff
+Hi, this github repository is used as a temporary solution for some projects, I don't exactly wish for this to be a public repository but eh.
+This contains the following:
+* Orion Corp - a Roblox WFYB group that requires a publicly accessible site for it's lore
+* My social media - I guess I'll use the main page to link social media of mine
 
-The site contains lore regarding the corporation and it's motives.
-It will grow as time goes on, so check in every so often :)
+Okay have a nice day
